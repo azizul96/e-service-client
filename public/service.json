@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/CKcD13z/university.png",
+        "name": "University",
+        "description": "University"
+    },
+    {
+        "id": 2,
+        "image": "https://i.ibb.co/THPFmqd/Collage.png",
+        "name": "Collage",
+        "description": "Collage"
+    },
+    {
+        "id": 3,
+        "image": "https://i.ibb.co/2svF0N9/school.png",
+        "name": "School",
+        "description": "School"
+    },
+    {
+        "id": 4,
+        "image": "https://i.ibb.co/4897693/hospital.png",
+        "name": "Hospital",
+        "description": "Hospital"
+    },
+    {
+        "id": 5,
+        "image": "https://i.ibb.co/dr85cRM/market.png",
+        "name": "Market",
+        "description": "Market"
+    },
+    {
+        "id": 6,
+        "image": "https://i.ibb.co/vLN9tzR/ambulance.png",
+        "name": "Ambulance",
+        "description": "Ambulance"
+    },
+    {
+        "id": 7,
+        "image": "https://i.ibb.co/Xx4FPYW/touring-zone.png",
+        "name": "Touring Zone",
+        "description": "Touring Zone"
+    },
+    {
+        "id": 8,
+        "image": "https://i.ibb.co/4fzYyp7/company.png",
+        "name": "Company",
+        "description": "Company"
+    },
+    {
+        "id": 9,
+        "image": "https://i.ibb.co/XzTWqJb/service.png",
+        "name": "Govt Service",
+        "description": "Govt Service"
+    },
+    {
+        "id": 10,
+        "image": "https://i.ibb.co/ZSDNrNQ/Curieer.png",
+        "name": "Curieer Service",
+        "description": "Curieer Service"
+    },
+    {
+        "id": 11,
+        "image": "https://i.ibb.co/F3kvrS6/blood.png",
+        "name": "Blood Bank",
+        "description": "Blood Bank"
+    },
+    {
+        "id": 12,
+        "image": "https://i.ibb.co/vYcPHbF/food.png",
+        "name": "Higlighted Food",
+        "description": "Higlighted Food"
+    },
+    {
+        "id": 13,
+        "image": "https://i.ibb.co/0FTHxmn/bar.png",
+        "name": "Bar Service",
+        "description": "Bar Service"
+    },
+    {
+        "id": 14,
+        "image": "https://i.ibb.co/WDmLdBt/hotel.png",
+        "name": "Brand Hotel",
+        "description": "Brand Hotel"
+    },
+    {
+        "id": 15,
+        "image": "https://i.ibb.co/Z8K5gGR/air.png",
+        "name": "Air Service",
+        "description": "Air Service"
+    }
+]
